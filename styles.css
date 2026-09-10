@@ -1,5 +1,5 @@
 .button {
-  color: #A73121;
+  color: #A73121;border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none
 }
 .button:hover {
   background-color: #A73121;
