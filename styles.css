@@ -1,5 +1,5 @@
 .button {
-  z-index:3;color: #A73121;border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none
+  z-index:3;color: #A73121;border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;
   font-family: "Josefin Sans", sans-serif;
 }
 .button:hover {
